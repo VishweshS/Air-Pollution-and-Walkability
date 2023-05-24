@@ -9,9 +9,9 @@ Measuring air pollution has been a rising topic of interest among researchers as
 
 Datasets used:
 
-* Census 2010 Census Block Groups (CBGs) boundary shapefile provided by MassGIS<sup>1</sup>.
-* National Walkability Index dataset, part of Smart Location Mapping provided by the United States Environmental Protection Agency<sup>2</sup>.
-* NOx Concentration in ppb downloaded for Greater Boston Area (10m x 10m grids) from the C-LINE tool, jointly provided by Chapel Hill's Institute for the Environment and the United States Environmental Protection Agency<sup>3</sup>.
+* Census 2010 Census Block Groups (CBGs) boundary shapefile provided by MassGIS<sup>1</sup> [(Download)](https://tufts.box.com/s/ae2qm0i44kk6a22rfp2o9k87he65m239).
+* National Walkability Index dataset, part of Smart Location Mapping provided by the United States Environmental Protection Agency<sup>2</sup> [(Download)](https://tufts.box.com/s/dk4272w0wbiqj92fkdu3r7upc0407li1).
+* NOx Concentration in ppb downloaded for Greater Boston Area (10m x 10m grids) from the C-LINE tool, jointly provided by Chapel Hill's Institute for the Environment and the United States Environmental Protection Agency<sup>3</sup> [(Download)](https://tufts.box.com/s/wd60ny5p1mrc9a4qoi2rd80m6zwax83g).
 <br>
 
 <sup>1</sup> [MassGIS Data: 2010 U.S. Census | Mass.gov](https://www.mass.gov/info-details/massgis-data-2010-us-census)
